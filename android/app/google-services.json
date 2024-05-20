@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837250442226",
+    "project_id": "taste-app-bce4c",
+    "storage_bucket": "taste-app-bce4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837250442226:android:8a23ace2a328351eb7416b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmVQ7KlUF2sMct_0cFATq9t1B_qse2oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837250442226:android:28702733c78db8fdb7416b",
+        "android_client_info": {
+          "package_name": "com.example.taste_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmVQ7KlUF2sMct_0cFATq9t1B_qse2oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
